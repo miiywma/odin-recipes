@@ -1,1 +1,1 @@
-# odin-recipes
+This project is a recipe website that containing links to three recipes.
